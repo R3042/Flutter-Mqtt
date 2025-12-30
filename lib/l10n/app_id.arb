@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_mqtt",
+  "@appTitle": {
+    "description": "Judul aplikasi"
+  }
+}
